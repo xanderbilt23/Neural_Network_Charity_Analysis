@@ -8,7 +8,7 @@ Analysis of organizations that have received funding from Alphabet Soup over the
 "IS_SUCCESSFUL is considered the target for the model.
 - What variable(s) are considered to be the features for your model?
 
-![image]()
+![image](https://github.com/xanderbilt23/Neural_Network_Charity_Analysis/blob/main/images/variables.png)
 
 - What variable(s) are neither targets nor features, and should be removed from the input data?
 EIN and NAME was removed from the input data. 
